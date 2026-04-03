@@ -43,7 +43,7 @@ I'm a developer who enjoys building scalable backend systems and exploring how A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocooda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7c3aed&text_color=22d3ee&icon_color=f59e0b" height="192" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cocooda&show_icons=true&theme=tokyonight&hide_border=true" height="192" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cocooda&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=f59e0b&currStreakNum=22d3ee&sideNums=22d3ee&sideLabels=7c3aed&dates=22d3ee" height="192" alt="GitHub Streak"/>
 </div>
 
@@ -53,19 +53,7 @@ I'm a developer who enjoys building scalable backend systems and exploring how A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cocooda&bg_color=0f172a&color=22d3ee&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
-## 🚀 Featured Projects
 
-#### 🔹 Flash Sale System
-- **Focus**: Scalability & consistency under high concurrency.
-- **Tech Stack**: Spring Boot, Redis, Kafka, MySQL.
-- **Impact & Learnings**: Designed a high-concurrency architecture that maintains data integrity and quick response times without race conditions.
-
-#### 🔹 AI-assisted Dev Workflow
-- **Focus**: Productivity & architecture orchestration.
-- **Tech Stack**: AI Dev Tools, CI/CD mechanisms.
-- **Impact & Learnings**: Explored using AI not just as a code generator, but as an engineering orchestrator, improving overall system thinking and development speed.
-
-*👉 My philosophy for projects is always clear problem definition → solution → tradeoffs.*
 
 ## 🧠 How I think
 
@@ -81,6 +69,5 @@ I'm a developer who enjoys building scalable backend systems and exploring how A
 
 ---
 <div align="center">
-  <i>"Futuristic × Cozy"</i><br>
   <img src="https://komarev.com/ghpvc/?username=cocooda&color=7c3aed&style=flat-square" alt="Profile views" />
 </div>
