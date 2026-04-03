@@ -43,7 +43,6 @@ I'm a developer who enjoys building scalable backend systems and exploring how A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocooda&show_icons=true&theme=tokyonight&hide_border=true" height="192" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cocooda&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=f59e0b&currStreakNum=22d3ee&sideNums=22d3ee&sideLabels=7c3aed&dates=22d3ee" height="192" alt="GitHub Streak"/>
 </div>
 
